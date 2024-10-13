@@ -1,4 +1,12 @@
-# MusicOnDeck Webapps built using WebApp Manager.
+# MusicOnDeck 
+
+Webapps built using WebApp Manager for use with the SteamDeck, along with music control apps within DeckyLoader.
+
+Planned Apps
+ - Spotify
+ - Google Music
+ - Amazon Music
+ - Tidal
 
 FAQ
 ===
